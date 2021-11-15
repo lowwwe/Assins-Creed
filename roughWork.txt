@@ -1,0 +1,38 @@
+When working on this file always preceed your 
+work with you initials in square brackets
+eg.
+[pl] one name peter [pl]
+
+then when updateing text add you initials to the 
+previous persons and join the text in correct way
+eg.
+>>>>>>>> Head
+[pl] one name peter [pl]
+==============
+[JB] one name Paul [JB]
+<<<<<<<<<<<<<<<<<<  joe blogs
+
+edit it to
+[JB][pl] one name peter and one paul [pl][JB]
+
+
+Title
+insert team member names here
+
+Elevator pitch 
+Describe your game in 30 seconds or less
+...
+World Background
+main differences in your game world
+...
+Pillars
+3-4 fundementals of this game
+...
+30 second gameplay description
+describe aht it like to play the essence of the game loop
+...
+Features points
+key selling points of your game
+...
+Market analysis
+similar games , typical customer, expected sales
